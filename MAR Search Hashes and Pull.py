@@ -1,5 +1,5 @@
-# This sample executes a McAfee Active Response search for the IP addresses
-# of hosts that have an Active Response client installed.
+# This script searches for hashes from a test file, and then tags any system
+# that returns a positive result
 
 import os
 import sys
